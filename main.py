@@ -23,4 +23,4 @@ async def on_ready():
         file.write(json.dumps({}, indent=4))
     print("start")
 
-client.run("ODQ4NjAyMjkwMTE3ODA0MDcy.YLPAeA.3f6k88M1w7FWQpMkoUn7xK6DNsA")
+client.run("")
