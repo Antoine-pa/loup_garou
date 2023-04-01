@@ -1,0 +1,66 @@
+{
+    "853561020282306600": {
+        "createur": 627191994699087873,
+        "delete_chan_after": true,
+        "liste_participant": [
+            627191994699087873,
+            521687468836388894
+        ],
+        "liste_participant_en_vie": [
+            627191994699087873,
+            521687468836388894
+        ],
+        "positions": [
+            [
+                627191994699087873,
+                {
+                    "droite": 521687468836388894,
+                    "gauche": 521687468836388894
+                }
+            ],
+            [
+                521687468836388894,
+                {
+                    "droite": 627191994699087873,
+                    "gauche": 627191994699087873
+                }
+            ]
+        ],
+        "liste_role": [
+            "loup-blanc",
+            "villageois"
+        ],
+        "channels": {},
+        "user_role": {},
+        "role_user": {},
+        "data_role": {
+            "voleur": [],
+            "loup": {
+                "vote": {},
+                "kill": null
+            },
+            "cupidon": [],
+            "voyante": {},
+            "sorciere": {
+                "sauver": 1,
+                "tuer": 1,
+                "kill": null
+            },
+            "chien-loup": {
+                "user_id": null,
+                "role": null
+            },
+            "enfant-sauvage": {
+                "user_id": null,
+                "model": null
+            },
+            "loup-blanc": {
+                "user_id": null,
+                "activation": true,
+                "kill": null
+            },
+            "vote": {}
+        },
+        "phase": "voleur"
+    }
+}
